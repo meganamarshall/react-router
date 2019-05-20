@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header component renders the header 1`] = `
+<header>
+  <h1>
+    All the colors
+  </h1>
+  <nav>
+    <Link
+      to="/red"
+    >
+      Red
+    </Link>
+    <br />
+    <Link
+      to="/blue"
+    >
+      Blue
+    </Link>
+    <br />
+    <Link
+      to="/yellow"
+    >
+      Yellow
+    </Link>
+    <br />
+    <Link
+      to="/random"
+    >
+      Random Color
+    </Link>
+  </nav>
+</header>
+`;
