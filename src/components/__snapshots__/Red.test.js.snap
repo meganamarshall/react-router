@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`red component renders red 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "red",
+      "height": "100px",
+      "width": "100px",
+    }
+  }
+/>
+`;
