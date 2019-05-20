@@ -5,9 +5,11 @@ export default function Header() {
   return (
     <header>
       <h1>All the colors</h1>
-      <Link to="/red">Red</Link>
-      <Link to="/blue">Blue</Link>
-      <Link to="/yellow">Yellow</Link>
+      <nav>
+        <Link to="/red">Red</Link>
+        <Link to="/blue">Blue</Link>
+        <Link to="/yellow">Yellow</Link>
+      </nav>
     </header>
   );
 }
