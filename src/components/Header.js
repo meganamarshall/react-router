@@ -11,8 +11,6 @@ export default function Header() {
         <Link to="/blue">Blue</Link>
         <br></br>
         <Link to="/yellow">Yellow</Link>
-        <br></br>
-        <Link to="/random">Random Color</Link>
       </nav>
     </header>
   );

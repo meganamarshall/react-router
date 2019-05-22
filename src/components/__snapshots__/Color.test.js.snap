@@ -4,7 +4,7 @@ exports[`random color component renders a random color 1`] = `
 <div
   style={
     Object {
-      "backgroundColor": "green",
+      "backgroundColor": "orange",
       "height": "100px",
       "width": "100px",
     }

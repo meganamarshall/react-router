@@ -18,7 +18,7 @@ exports[`app component renders the app 1`] = `
     />
     <Route
       component={[Function]}
-      path="/random"
+      path="/:color"
     />
   </Switch>
 </BrowserRouter>

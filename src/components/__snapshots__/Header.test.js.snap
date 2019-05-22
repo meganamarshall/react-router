@@ -23,12 +23,6 @@ exports[`header component renders the header 1`] = `
     >
       Yellow
     </Link>
-    <br />
-    <Link
-      to="/random"
-    >
-      Random Color
-    </Link>
   </nav>
 </header>
 `;
