@@ -12,7 +12,7 @@ function Color({ match }) {
   return <div style={style}></div>;
 }
 
-Color.proptypes = {
+Color.propTypes = {
   match: PropTypes.shape({
     params: PropTypes.shape({
       color: PropTypes.string.isRequired
